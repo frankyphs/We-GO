@@ -1,0 +1,16 @@
+[
+  {
+    "username": "Fathir",
+    "email": "fathir@gmail.com",
+    "password": "12345678",
+    "phoneNumber": "0813456789",
+    "imageUrl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+  },
+  {
+    "username": "Ciptandaru",
+    "email": "ciptandaru@gmail.com",
+    "password": "12345678",
+    "phoneNumber": "0812987654",
+    "imageUrl": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Wedding Harmony",
+    "description": "Wedding Harmony adalah penyelenggara pernikahan profesional dengan pengalaman selama 7 tahun. Kami menyediakan layanan perencanaan, dekorasi, dan layanan katering. Dengan rating 4.6, kami memberikan perhatian khusus pada detail dan memberikan pengalaman pernikahan yang tak terlupakan. Lokasi kami berada di Jakarta Pusat dengan kapasitas hingga 300 tamu.",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1661771928377-3c0ad5a0e85a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "price": 60000000,
+    "rating": 4.6,
+    "VenueId": 1,
+    "CatheringId": 1,
+    "PhotographyId": 1
+  },
+  {
+    "id": 2,
+    "title": "Dreamy Weddings",
+    "description": "Dreamy Weddings adalah penyelenggara pernikahan yang berpengalaman selama 7 tahun. Kami menawarkan layanan perencanaan dan dekorasi pernikahan yang kreatif. Dengan rating 4.5, kami memberikan perhatian khusus pada setiap detail untuk menciptakan suasana pernikahan yang indah. Lokasi kami berada di Jakarta Barat dengan kapasitas hingga 350 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1552581234-26160f608093?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "price": 70000000,
+    "rating": 4.5,
+    "VenueId": 2,
+    "CatheringId": 2,
+    "PhotographyId": 2
+  },
+  {
+    "id": 3,
+    "title": "Everlasting Love Events",
+    "description": "Everlasting Love Events adalah penyelenggara pernikahan profesional dengan pengalaman selama 7 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi. Dengan rating 4.7, kami mengutamakan kepuasan klien dan memberikan layanan pernikahan yang unik dan berkesan. Lokasi kami berada di Jakarta Selatan dengan kapasitas hingga 400 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80",
+    "price": 80000000,
+    "rating": 4.7,
+    "VenueId": 3,
+    "CatheringId": 3,
+    "PhotographyId": 3
+  },
+  {
+    "id": 4,
+    "title": "Enchanting Moments",
+    "description": "Enchanting Moments adalah penyelenggara pernikahan yang berpengalaman selama 5 tahun. Kami menyediakan layanan perencanaan dan dekorasi pernikahan yang elegan dan indah. Dengan rating 4.4, kami berkomitmen untuk memberikan pengalaman pernikahan yang tidak terlupakan bagi pasangan pengantin. Lokasi kami berada di Jakarta Utara dengan kapasitas hingga 250 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1568992688065-536aad8a12f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+    "price": 50000000,
+    "rating": 4.4,
+    "VenueId": 4,
+    "CatheringId": 4,
+    "PhotographyId": 4
+  },
+  {
+    "id": 5,
+    "title": "Eternal Vows Weddings",
+    "description": "Eternal Vows Weddings adalah penyelenggara pernikahan profesional dengan pengalaman selama 6 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.8, kami berdedikasi untuk menciptakan pernikahan impian dengan sentuhan kreatif dan keindahan yang menakjubkan. Lokasi kami berada di Jakarta Timur dengan kapasitas hingga 500 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1573167507387-6b4b98cb7c13?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80",
+    "price": 90000000,
+    "rating": 4.8,
+    "VenueId": 5,
+    "CatheringId": 5,
+    "PhotographyId": 5
+  },
+  {
+    "id": 6,
+    "title": "Blissful Beginnings",
+    "description": "Blissful Beginnings adalah penyelenggara pernikahan yang berpengalaman selama 8 tahun. Kami menyediakan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.6, kami memberikan perhatian khusus pada detail dan kreativitas dalam setiap pernikahan yang kami lakukan. Lokasi kami berada di Tangerang dengan kapasitas hingga 300 tamu.",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1661757333258-f9c25fd64546?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "price": 65000000,
+    "rating": 4.6,
+    "VenueId": 6,
+    "CatheringId": 1,
+    "PhotographyId": 6
+  },
+  {
+    "id": 7,
+    "title": "Charming Occasions",
+    "description": "Charming Occasions adalah penyelenggara pernikahan profesional dengan pengalaman selama 6 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.7, kami berkomitmen untuk menciptakan pernikahan yang elegan dan indah. Lokasi kami berada di Bandung dengan kapasitas hingga 200 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+    "price": 55000000,
+    "rating": 4.7,
+    "VenueId": 7,
+    "CatheringId": 2,
+    "PhotographyId": 7
+  },
+  {
+    "id": 8,
+    "title": "Love Story Weddings",
+    "description": "Love Story Weddings adalah penyelenggara pernikahan yang berpengalaman selama 5 tahun. Kami menawarkan layanan perencanaan dan dekorasi pernikahan yang kreatif dan elegan. Dengan rating 4.5, kami memahami kebutuhan klien dan menghadirkan konsep pernikahan yang unik. Lokasi kami berada di Bali dengan kapasitas hingga 400 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1606836591695-4d58a73eba1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+    "price": 75000000,
+    "rating": 4.5,
+    "VenueId": 8,
+    "CatheringId": 3,
+    "PhotographyId": 8
+  },
+  {
+    "id": 9,
+    "title": "Sparkling Celebrations",
+    "description": "Sparkling Celebrations adalah penyelenggara pernikahan profesional dengan pengalaman selama 7 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.8, kami berkomitmen untuk menciptakan pernikahan yang romantis dan tak terlupakan. Lokasi kami berada di Surabaya dengan kapasitas hingga 300 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1577415124269-fc1140a69e91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+    "price": 60000000,
+    "rating": 4.8,
+    "VenueId": 9,
+    "CatheringId": 4,
+    "PhotographyId": 9
+  },
+  {
+    "id": 10,
+    "title": "Timeless Events",
+    "description": "Timeless Events adalah penyelenggara pernikahan yang berpengalaman selama 6 tahun. Kami menyediakan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.6, kami memberikan perhatian khusus pada detail dan menciptakan pernikahan yang elegan dan berkesan. Lokasi kami berada di Yogyakarta dengan kapasitas hingga 250 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1573164574511-73c773193279?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80",
+    "price": 55000000,
+    "rating": 4.6,
+    "VenueId": 10,
+    "CatheringId": 5,
+    "PhotographyId": 10
+  },
+  {
+    "id": 11,
+    "title": "Romantic Dreams",
+    "description": "Romantic Dreams adalah penyelenggara pernikahan profesional dengan pengalaman selama 7 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.7, kami berkomitmen untuk menciptakan pernikahan yang indah dan romantis. Lokasi kami berada di Medan dengan kapasitas hingga 300 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1531497865144-0464ef8fb9a9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+    "price": 60000000,
+    "rating": 4.7,
+    "VenueId": 11,
+    "CatheringId": 1,
+    "PhotographyId": 1
+  },
+  {
+    "id": 12,
+    "title": "Aisle of Elegance",
+    "description": "Aisle of Elegance adalah penyelenggara pernikahan yang berpengalaman selama 5 tahun. Kami menawarkan layanan perencanaan dan dekorasi pernikahan yang elegan dan berkelas. Dengan rating 4.5, kami mengutamakan kepuasan klien dan menciptakan pernikahan yang unik sesuai dengan keinginan pasangan pengantin. Lokasi kami berada di Makassar dengan kapasitas hingga 200 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "price": 50000000,
+    "rating": 4.5,
+    "VenueId": 12,
+    "CatheringId": 2,
+    "PhotographyId": 2
+  },
+  {
+    "id": 13,
+    "title": "Divine Knots",
+    "description": "Divine Knots adalah penyelenggara pernikahan profesional dengan pengalaman selama 6 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.8, kami berkomitmen untuk memberikan pengalaman pernikahan yang tak terlupakan bagi pasangan pengantin. Lokasi kami berada di Semarang dengan kapasitas hingga 300 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1622675363311-3e1904dc1885?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "price": 60000000,
+    "rating": 4.8,
+    "VenueId": 13,
+    "CatheringId": 3,
+    "PhotographyId": 3
+  },
+  {
+    "id": 14,
+    "title": "Enchanted I Do's",
+    "description": "Enchanted I Do's adalah penyelenggara pernikahan yang berpengalaman selama 7 tahun. Kami menyediakan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.7, kami fokus pada detail dan kualitas dalam setiap pernikahan yang kami lakukan. Lokasi kami berada di Palembang dengan kapasitas hingga 250 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1581091877018-dac6a371d50f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "price": 55000000,
+    "rating": 4.7,
+    "VenueId": 14,
+    "CatheringId": 4,
+    "PhotographyId": 4
+  },
+  {
+    "id": 15,
+    "title": "Forever and Beyond",
+    "description": "Forever and Beyond adalah penyelenggara pernikahan profesional dengan pengalaman selama 6 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.6, kami berkomitmen untuk menciptakan pernikahan yang elegan dan berkesan. Lokasi kami berada di Malang dengan kapasitas hingga 200 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80",
+    "price": 50000000,
+    "rating": 4.6,
+    "VenueId": 15,
+    "CatheringId": 5,
+    "PhotographyId": 5
+  },
+  {
+    "id": 16,
+    "title": "Serenity Weddings",
+    "description": "Serenity Weddings adalah penyelenggara pernikahan profesional dengan pengalaman selama 6 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.6, kami berkomitmen untuk menciptakan pernikahan yang elegan dan berkesan. Lokasi kami berada di Malang dengan kapasitas hingga 200 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "price": 60000000,
+    "rating": 4.6,
+    "VenueId": 1,
+    "CatheringId": 1,
+    "PhotographyId": 6
+  },
+  {
+    "id": 17,
+    "title": "Magical Unions",
+    "description": "Magical Unions adalah penyelenggara pernikahan profesional dengan pengalaman selama 6 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.6, kami berkomitmen untuk menciptakan pernikahan yang elegan dan berkesan. Lokasi kami berada di Malang dengan kapasitas hingga 200 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1543269865-0a740d43b90c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "price": 70000000,
+    "rating": 4.5,
+    "VenueId": 2,
+    "CatheringId": 2,
+    "PhotographyId": 7
+  },
+  {
+    "id": 18,
+    "title": "Eternity Weddings",
+    "description": "Eternity Weddings adalah penyelenggara pernikahan profesional dengan pengalaman selama 6 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.6, kami berkomitmen untuk menciptakan pernikahan yang elegan dan berkesan. Lokasi kami berada di Malang dengan kapasitas hingga 200 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "price": 80000000,
+    "rating": 4.6,
+    "VenueId": 3,
+    "CatheringId": 3,
+    "PhotographyId": 8
+  },
+  {
+    "id": 19,
+    "title": "Radiant Affairs",
+    "description": "Radiant Affairs adalah penyelenggara pernikahan profesional dengan pengalaman selama 6 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.6, kami berkomitmen untuk menciptakan pernikahan yang elegan dan berkesan. Lokasi kami berada di Malang dengan kapasitas hingga 200 tamu.",
+    "imageUrl": "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+    "price": 60000000,
+    "rating": 4.6,
+    "VenueId": 1,
+    "CatheringId": 4,
+    "PhotographyId": 9
+  },
+  {
+    "id": 20,
+    "title": "Endless Love Events",
+    "description": "Endless Love Events adalah penyelenggara pernikahan profesional dengan pengalaman selama 6 tahun. Kami menawarkan layanan perencanaan, dekorasi, katering, dan fotografi pernikahan. Dengan rating 4.6, kami berkomitmen untuk menciptakan pernikahan yang elegan dan berkesan. Lokasi kami berada di Malang dengan kapasitas hingga 200 tamu.",
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1676651178962-67cb1622b7ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+    "price": 70000000,
+    "rating": 4.5,
+    "VenueId": 2,
+    "CatheringId": 5,
+    "PhotographyId": 10
+  }
+]

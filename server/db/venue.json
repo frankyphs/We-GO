@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Balai Makarti Muktitama",
+    "location": "Jakarta Selatan",
+    "locationGoogle": [
+      "-6.254714429378184",
+      "106.85038838187431"
+    ],
+    "price": 10000000,
+    "capacity": 800,
+    "description": "Gedung pernikahan yang identik dengan nuansa Jawa satu ini menjadi gedung favorit bagi yang ingin melaksanakan resepsi dengan adat Jawa. Ballroom yang didesain seperti joglo, dan ornamen-ornamen khas Jawa yang dibuat dengan material kayu pastinya akan membuat acara resepsi pernikahan mu akan semakin berkesan!",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+      "https://plus.unsplash.com/premium_photo-1678286769819-538a80c44baa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    ]
+  },
+  {
+    "name": "Balai Kartini",
+    "location": "Jakarta Pusat",
+    "locationGoogle": [
+      "-6.234221251401263",
+      "106.82551621255841"
+    ],
+    "price": 35000000,
+    "capacity": 1000,
+    "description": "Balai Kartini adalah sebuah pusat konvensi dan pameran yang berlokasi di selatan Jakarta. Balai Kartini memiliki luas 45.673,71 sqm dan terdiri dari aula bergaya teater bundar, ruang pameran, ruang VIP dan lounge lobi utama yang luas, dan 6 ruang pertemuan yang dapat dikonfigurasi untuk mencocokkan persyaratan acara tertentu. Balai Kartini banyak digunakan untuk berbagai macam acara, baik untuk acara hiburan, konser musik, pameran, job fair, seminar dan simposium, serta acara pernikahan.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=449&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1586611292717-f828b167408c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+    ]
+  },
+  {
+    "name": "Gedung Puspa Pesona Taman Anggrek",
+    "location": "Jakarta Timur",
+    "locationGoogle": [
+      "-6.292850902475407",
+      "106.8813329088615"
+    ],
+    "price": 11000000,
+    "capacity": 1000,
+    "description": "Berlokasi di Taman Mini Indonesia, gedung satu ini terbilang memberikan harga yang cukup ekonomis dibanding dengan gedung pernikahan lainnya. Kapasitas yang mampu ditampung oleh gedung mencapai hingga 1000 orang.(Jam 7 malam- 10 malam) harga tidak termasuk katerin",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1600011689032-8b628b8a8747?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+    ]
+  },
+  {
+    "name": "Graha Marinir Panti Perwira",
+    "location": "Jakarta Pusat",
+    "locationGoogle": [
+      "-6.180360261404976",
+      "106.83704167022886"
+    ],
+    "price": 20000000,
+    "capacity": 1200,
+    "description": "Berlokasi di daerah Jakarta Pusat, gedung satu ini memiliki kapasitas hingga 1.200 tamu dan lahan parkir yang mampu menampung 200 mobil. Dengan kapasitas yang besar tentunya kalian tidak perlu repot memikirkan berapa banyak tamu yang harus diundang.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1549294413-26f195200c16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80"
+    ]
+  },
+  {
+    "name": "Rumah Kriya Asri",
+    "location": "Jakarta Selatan",
+    "locationGoogle": [
+      "-6.277879471215793",
+      "106.82007739536806"
+    ],
+    "price": 17500000,
+    "capacity": 300,
+    "description": "Mau menggelar private wedding dengan konsep garden party? Nah, Rumah Kriya Asri ini menjadi tempat yang sangat cocok. Rumah Kriya Asri sendiri memiliki konsep gaya arsitektur Belanda dengan nuansa homey yang terasa layaknya rumah sendiri.",
+    "isBooked": false,
+    "photo": [
+      "https://plus.unsplash.com/premium_photo-1678286769888-ef3698e72a6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1554009975-d74653b879f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=327&q=80",
+      "https://images.unsplash.com/photo-1535827841776-24afc1e255ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80"
+    ]
+  },
+  {
+    "name": "Rumah Ranadi",
+    "location": "Jakarta Selatan",
+    "locationGoogle": [
+      "-6.282150963162176",
+      "106.81113295303912"
+    ],
+    "price": 37000000,
+    "capacity": 300,
+    "description": "Rekomendasi tempat pernikahan selanjutnya di Jakarta adalah Rumah Ranadi. Cocok sekali bagi para pasangan yang ingin merayakan pesta pernikahan ala adat Jawa. /n Ada beberapa pendopo dan joglo yang bisa digunakan sebagai venue pernikahan. Kapasitas parkir mobil di Rumah Ranadi juga terbilang cukup luas dengan kapasitas 260 mobil.",
+    "isBooked": false,
+    "photo": [
+      "https://plus.unsplash.com/premium_photo-1678286770016-6306ad61df9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+      "https://plus.unsplash.com/premium_photo-1678286771082-4de8d1e4b649?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+    ]
+  },
+  {
+    "name": "Gedung Aneka Bhakti I",
+    "location": "Jakarta Selatan",
+    "locationGoogle": [
+      "-6.192646698758387",
+      "106.8508169472529"
+    ],
+    "price": 10000000,
+    "capacity": 1000,
+    "description": "Gedung Aneka Bhakti merupakan salah satu gedung pernikahan yang cukup populer bagi para calon pengantin. /n Memiliki kapasitas gedung yang mampu menampung hingga 1000 orang dan respon PIC nya yang cepat tanggap dijamin acara pernikahan lancar.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1561501878-aabd62634533?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1540541338287-41700207dee6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1580041065738-e72023775cdc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    ]
+  },
+  {
+    "name": "Gedung Balai Makarti Muktitama",
+    "location": "Jakarta Selatan",
+    "locationGoogle": [
+      "-6.254778419201081",
+      "106.85036692420321"
+    ],
+    "price": 7500000,
+    "capacity": 800,
+    "description": "Mengusung nuansa jawa yang kental, gedung pernikahan Jakarta Selatan terbaru dan terlaris ini memiliki arsitektur dengan bahan kayu yang indah. Mampu menampung sekitar 800 undangan. Fasilitas yang juga bisa dimanfaatkan adalah ruang bagi pengantin dan juga ruang keluarga yang nyaman. /n Kamu bisa menggunakannya hingga pukul 22.00 WIB tergantung jam berapa acara akan dimulai. Jika dimulai pada pagi hari, maka maksimal digunakan hingga pukul 14.00 WIB. Jika diselenggarakan siang, bisa dipakai sampai pukul 22.00 WIB.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1549895058-36748fa6c6a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "https://images.unsplash.com/photo-1584336991738-c4fca2b411ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+      "https://images.unsplash.com/photo-1565902628322-ef64d5cda571?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=409&q=80"
+    ]
+  },
+  {
+    "name": "Balai Pertemuan Bukit Permai",
+    "location": "Jakarta Timur",
+    "locationGoogle": [
+      "-6.355005661303518",
+      "106.88552266653352"
+    ],
+    "price": 4000000,
+    "capacity": 600,
+    "description": "Jika Anda mengundang sekitar 600 tamu di pesta pernikahan, Balai Pertemuan Bukit Permai bisa Anda jadikan sebagai venue pestanya. Lokasi Balai Pertemuan Bukit Permai pun tergolong sangat strategis, yaitu berada di kawasan Ciracas, Jakarta Timur.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1586199574776-41143d41c70f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1633528760485-a4fa9ecd037b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=873&q=80",
+      "https://images.unsplash.com/photo-1579254216547-a90bea451479?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    ]
+  },
+  {
+    "name": "Gedung Graha Pondok Pinang",
+    "location": "Jakarta Selatan",
+    "locationGoogle": [
+      " -6.279414777976985",
+      "106.771986554888"
+    ],
+    "price": 9000000,
+    "capacity": 300,
+    "description": "Bagi kamu yang memiliki keluarga dan kerabat yang banyak tinggal di kawasan Jakarta Barat, Jakarta Selatan hingga Tangerang bagian Selatan, sangat tepat untuk memilih gedung yang satu ini. Ratusan orang bisa ditampung di gedung ini dengan fasilitas yang memadai.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1549964336-96c968e00d5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+      "https://images.unsplash.com/photo-1524824267900-2fa9cbf7a506?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1542665952-14513db15293?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    ]
+  },
+  {
+    "name": "Gedung Aula Sudirman Makodam Jaya",
+    "location": "Jakarta Timur",
+    "locationGoogle": [
+      "-6.253875483910807",
+      "106.87045401070999"
+    ],
+    "price": 10000000,
+    "capacity": 1000,
+    "description": "Memilih gedung pernikahan di daerah Cawang? Maka bisa mengarah ke Gedung Aula Sudirman Makodam Jaya yang berada di Jl Mayjen Sutoyo No 2, Cawang, Kramat Jati, Jakarta Timur. /n Gedung ini memiliki kapasitas yang bisa menampung hingga 1.000 tamu. Selain itu, langit-langit yang tinggi memberikan kesan luas dan bebas sumpek. Satu lagi, parkirannya pun luas.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1602081112620-4da569dda684?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+      "https://images.unsplash.com/photo-1558998708-ed5f8eaf1af1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=852&q=80",
+      "https://images.unsplash.com/photo-1579254216656-3c0c16a3bdd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80"
+    ]
+  },
+  {
+    "name": "Balai Sarwono",
+    "location": "Jakarta Selatan",
+    "locationGoogle": [
+      "-6.2797439979196845",
+      "106.81551159536795"
+    ],
+    "price": 18000000,
+    "capacity": 600,
+    "description": "The Joglo Group embodies the authentic Javanese spirit in every detail of their work, from values to designs representing a thick traditional element. Providing you with services that preserve the traditional Javanese tradition and values. If you're looking for something unique and a whole different Indonesian experience, then this is the right place to be.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=898&q=80",
+      "https://images.unsplash.com/photo-1524202503253-d461ec0ece86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+      "https://images.unsplash.com/photo-1602081115720-72e5b0a254b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80"
+    ]
+  },
+  {
+    "name": "Gedung Aneka Bhakti",
+    "location": "Jakarta Pusat",
+    "locationGoogle": [
+      "-6.19640571846816",
+      "106.85287713270762"
+    ],
+    "price": 13500000,
+    "capacity": 1200,
+    "description": "Berada di kawasan yang sama dengan Kementrian Sosial RI di Senen. Banyak pasangan yang memilih venue pernikahan ini karena pertimbangan lokasi. /n Venue pernikahan dengan posisi yang strategis membuat tamu mudah menjangkaunya dengan moda transportasi apapun. ",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1577058071107-96a5a1dbe120?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+      "https://images.unsplash.com/photo-1568530873454-e4103a0b3c71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/flagged/photo-1564137008568-296d800b8389?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=829&q=80"
+    ]
+  },
+  {
+    "name": "Gelanggang Remaja Jakarta Utara",
+    "location": "Jakarta Utara",
+    "locationGoogle": [
+      "-6.118483725120561",
+      "106.89216345458553"
+    ],
+    "price": 6000000,
+    "capacity": 1000,
+    "description": "Untuk kamu yang berencana mencari venue di Jakarta Utara, bisa mengarah ke  Gelanggang Remaja Jakarta Utara. Auditorium dari gedung ini bisa disewakan untuk acara pernikahan. Bisa menampung tamu hingga 1.000 orang, gedung ini juga memiliki area parkir yang luas. Posisi tepatnya berada di Jl Yos Sudarso No 25.26, Kelurahan Kebon Bawang, Kecamatan Tanjung Priok, Jakarta Utara. ",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1572085313466-6710de8d7ba3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+      "https://images.unsplash.com/photo-1523438885200-e635ba2c371e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+      "https://images.unsplash.com/photo-1597466609913-e47405096f86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80"
+    ]
+  },
+  {
+    "name": "Balai Pertemuan Bukit Permai",
+    "location": "Jakarta Timur",
+    "locationGoogle": [
+      "-6.355101627473368",
+      "106.8855655818757"
+    ],
+    "price": 4000000,
+    "capacity": 600,
+    "description": "Mengarah ke Jakarta Timur, ada Gedung Balai Pertemuan Bukit Permai yang bisa disewa. Dengan kapasitas 600 tamu undangan, balai ini memiliki harga yang cukup rendah yaitu Rp 4 juta.  Jika penasaran, kamu bisa coba mendatangi gedung ini yang berada di Jl Balai Pertemuan Bukit Timur,",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1530023367847-a683933f4172?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+      "https://images.unsplash.com/photo-1645859931058-dd7001856e8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+      "https://images.unsplash.com/photo-1533040144848-c9b885ea47de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=840&q=80"
+    ]
+  },
+  {
+    "name": "Graha Angkasa Pura 1",
+    "location": "Jakarta Pusat",
+    "locationGoogle": [
+      "-6.154100686716896",
+      "106.842278381873"
+    ],
+    "price": 15000000,
+    "capacity": 1000,
+    "description": "Graha Angkasa Pura 1 ini bisa menampung tamu undangan hingga mecapai 1000 orang. Jika biasanya menyewa gedung untuk acara pernikahan dilaksanakan pada Sabtu dan Minggu, di gedung ini Anda bisa menyewanya di hari kerja, yaitu Senin – Kamis. Selain itu, di gedung ini juga dilengkapi banyak fasilitas, salah satunya izin keramaian kepolisian.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1572040428263-14d4b4221d2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=943&q=80",
+      "https://images.unsplash.com/photo-1582379453827-25dbb38d8f5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1602081115720-72e5b0a254b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80"
+    ]
+  },
+  {
+    "name": "Azila Villa",
+    "location": "Jakarta Timur",
+    "locationGoogle": [
+      "-6.336773064683323",
+      "106.89231858187544"
+    ],
+    "price": 12000000,
+    "capacity": 400,
+    "description": "Kalau sudah dengan kata Villa, pastinya gambaran para calon pasangan pengantin, ruangannya tidak terlalu besar. Ya memang benar. Azila Villa ini hanya bisa menampung dengan maksimal undangan 400 orang saja. Meski begitu, tempat ini sangat tepat bagi Anda dan pasangan yang hanya ingin menggelar pernikahan dengan konsep kekeluargaan sekaligus garden party.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1572040428263-14d4b4221d2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=943&q=80",
+      "https://images.unsplash.com/photo-1582379453827-25dbb38d8f5b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1602081115720-72e5b0a254b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80"
+    ]
+  },
+  {
+    "name": "Gedung Depnaker",
+    "location": "Jakarta Selatan",
+    "locationGoogle": [
+      "-6.235947460947229",
+      "106.82856424519466"
+    ],
+    "price": 9000000,
+    "capacity": 700,
+    "description": "Ingin gedung pernikahan yang strategis di tengah kota? Anda bisa memilih Gedung Depnaker yang berada di Jalan Gatot Subroto, Jakarta Pusat ini. Kapasitas yang ditawarkan oleh gedung ini memang tidak terlalu banyak, karena hanya sekitar 700 orang saja.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1554009975-d74653b879f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=327&q=80",
+      "https://images.unsplash.com/photo-1571930884060-d8f6b9cb05f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+      "https://images.unsplash.com/photo-1585418694458-dc80a5c20294?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80"
+    ]
+  },
+  {
+    "name": "Aula Masjid Babussalam",
+    "location": "Jakarta Pusat",
+    "locationGoogle": [
+      "-6.19730167479083",
+      "106.88800334567638"
+    ],
+    "price": 9000000,
+    "capacity": 600,
+    "description": "Tak masalah jika Anda ingin menggelar akad nikah dan resepsi di gedung yang sama. Karena selain hemat, cara ini juga lebih praktis. Ada sebuah gedung pernikahan di Jakarta Utara yang dapat memberikan fasilitas akad nikah dan resepsi, yaitu Aula Masjid Babussalam Walikota Jakarta Utara.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1560624052-449f5ddf0c31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "https://images.unsplash.com/photo-1613769073681-3a87c3d97858?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80"
+    ]
+  },
+  {
+    "name": "Gedung Graha Enusa",
+    "location": "Jakarta Selatan",
+    "locationGoogle": [
+      "-6.28964007240939",
+      "106.80959462420371"
+    ],
+    "price": 8000000,
+    "capacity": 800,
+    "description": "Sama seperti Gedung Aneka Bhakti, Gedung Graha Enusa ini juga biasa dijadikan tempat untuk menyelenggarakan pernikahan. Gedungnya cukup bagus, jika ditambahkan dengan dekorasi tentu saja Gedung Graha Enusa akan terlihat semakin menarik.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1606787947151-1c54964042e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=436&q=80",
+      "https://images.unsplash.com/photo-1581790373347-43284e878076?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=436&q=80",
+      "https://images.unsplash.com/photo-1602081112620-4da569dda684?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80"
+    ]
+  },
+  {
+    "name": "Gedung Aldevco Octagon",
+    "location": "Jakarta Selatan",
+    "locationGoogle": [
+      "-6.274335154310292",
+      "106.8299398376969"
+    ],
+    "price": 8000000,
+    "capacity": 700,
+    "description": "Luasnya kawasan parkir yang dimilikinya, tak akan membuat tamu yang datang ke pesta Anda saling berdesakan saat memarkir kendaraannya. Kapasitas gedung ini pun lumayan besar, sehingga bisa menampung hingga sekitar 800 tamu undangan.",
+    "isBooked": false,
+    "photo": [
+      "https://images.unsplash.com/photo-1606787947151-1c54964042e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=436&q=80",
+      "https://images.unsplash.com/photo-1581790373347-43284e878076?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=436&q=80",
+      "https://images.unsplash.com/photo-1602081112620-4da569dda684?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80"
+    ]
+  }
+]

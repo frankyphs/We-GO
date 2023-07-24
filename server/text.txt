@@ -1,0 +1,30 @@
+ini backend
+
+   Product.belongsTo(models.Photography);
+      Product.belongsTo(models.Venue);
+      Product.belongsTo(models.Cathering);
+
+
+       PhotographyId: {
+        type: Sequelize.INTEGER,
+        references: {
+          model: "Photographies",
+          key: "id",
+        },
+      },
+      CatheringId: {
+        type: Sequelize.INTEGER,
+        references: {
+          model: "Catherings",
+          key: "id",
+        },
+      },
+      VenueId: {
+        type: Sequelize.INTEGER,
+        references: {
+          model: "Venues",
+          key: "id",
+        },
+      },
+
+

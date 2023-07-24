@@ -1,0 +1,100 @@
+[
+  {
+    "name": "David Anderson",
+    "price": 5000000,
+    "description": "Kami adalah fotografer pernikahan yang berdedikasi dalam menangkap momen-momen berharga dalam pernikahan Anda. Dengan pengalaman dan keahlian dalam seni fotografi pernikahan, Kami menciptakan karya yang mempesona dan otentik. Dari persiapan hingga detik-detik romantis di altar, Kami mengabadikan momen dengan keanggunan dan kecerdasan. Setiap foto menampilkan keindahan dan keunikannya. Kami fokus pada interaksi hangat dan spontan antara keluarga dan teman. Mempercayakan pernikahan Anda pada Kami adalah memilih untuk memiliki kenangan yang abadi.",
+    "photo": [
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=449&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1586611292717-f828b167408c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+    ]
+  },
+  {
+    "name": "Jennifer Carter",
+    "price": 5500000,
+    "description": "Kami adalah seorang fotografer profesional dengan spesialisasi dalam fotografi pernikahan. Dengan keahlian dan bakat dalam mengabadikan momen-momen berharga, Kami berkomitmen untuk menciptakan karya yang indah dan berkesan. Kami mengerti pentingnya pernikahan bagi Anda dan pasangan Anda, dan Kami bekerja dengan tekun untuk menangkap setiap momen berarti dalam perayaan Anda. Dari detik pertama hingga momen-momen puncak, Kami akan memberikan gambar-gambar yang mencerminkan kebahagiaan dan cinta yang terpancar dalam acara pernikahan Anda.",
+    "photo": [
+      "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=449&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1586611292717-f828b167408c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+    ]
+  },
+  {
+    "name": "Michael Davis",
+    "price": 6000000,
+    "description": "Kami adalah fotografer pernikahan berpengalaman yang berkomitmen untuk menciptakan kenangan indah dari momen-momen berharga dalam pernikahan Anda. Dengan perhatian terhadap detail dan keahlian dalam komposisi visual, Kami akan mengabadikan setiap momen penting dengan keindahan dan keaslian. Dalam setiap foto, Kami menangkap ekspresi emosi dan kebahagiaan yang mewarnai pernikahan Anda. Percayakan Kami untuk memberikan dokumentasi yang indah dan tak terlupakan dari hari istimewa Anda.",
+    "photo": [
+      "https://images.unsplash.com/photo-1600011689032-8b628b8a8747?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+    ]
+  },
+  {
+    "name": "Jessica Martinez",
+    "price": 6500000,
+    "description": "Kami adalah fotografer pernikahan yang berdedikasi untuk menciptakan kisah visual yang menakjubkan dari momen-momen berharga dalam pernikahan Anda. Dengan kepekaan artistik dan kemampuan teknis yang solid, Kami akan mengabadikan setiap detail, kebahagiaan, dan cinta yang terpancar dalam perayaan Anda. Dari detik-detik emosional hingga momen-momen puncak, Kami akan menggambarkan cerita Anda dengan indah dan autentik. Percayakan kepada Kami untuk menciptakan kenangan yang abadi dari hari pernikahan Anda.",
+    "photo": [
+      "https://images.unsplash.com/photo-1600011689032-8b628b8a8747?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "https://images.unsplash.com/photo-1615460549969-36fa19521a4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+    ]
+  },
+  {
+    "name": "Matthew Wilson",
+    "price": 7000000,
+    "description": "Kami adalah seorang fotografer pernikahan dengan pengalaman dalam mengabadikan momen-momen berharga dalam pernikahan. Dengan gaya dokumenter yang kreatif dan fokus pada detail, Kami akan menciptakan karya yang unik dan berkesan untuk Anda. Kami percaya bahwa foto pernikahan harus mencerminkan keindahan, kebahagiaan, dan keintiman yang terjadi dalam perayaan tersebut. Dari momen paling sederhana hingga momen-momen puncak, Kami akan menangkap setiap nuansa dengan keanggunan dan kecerdasan. Jadikan pernikahan Anda tak terlupakan dengan foto-foto yang memukau dari Kami.",
+    "photo": [
+      "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1549294413-26f195200c16?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80"
+    ]
+  },
+  {
+    "name": "Sarah Thompson",
+    "price": 7500000,
+    "description": "Kami adalah fotografer pernikahan yang berpengalaman dan berkomitmen untuk mengabadikan momen-momen berharga dalam pernikahan Anda dengan indah. Dengan perhatian terhadap detail dan keahlian dalam menciptakan komposisi visual yang menarik, Kami akan mengabadikan setiap momen penting, ekspresi, dan sentuhan emosional yang membuat pernikahan Anda begitu istimewa. Kami memahami pentingnya momen ini bagi Anda, dan dengan penuh dedikasi, Kami akan menciptakan karya yang menggambarkan keindahan dan kebahagiaan sejati dalam acara pernikahan Anda.",
+    "photo": [
+      "https://plus.unsplash.com/premium_photo-1678286769888-ef3698e72a6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1554009975-d74653b879f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=327&q=80",
+      "https://images.unsplash.com/photo-1535827841776-24afc1e255ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80"
+    ]
+  },
+  {
+    "name": "Zona Foto",
+    "price": 8000000,
+    "description": "Kami adalah fotografer profesional dengan pengalaman dalam mengabadikan momen-momen berharga dalam pernikahan. Dengan perhatian terhadap detail dan kreativitas dalam komposisi, Kami akan menghasilkan foto-foto yang memukau dan berkesan untuk Anda. Kami percaya bahwa setiap pernikahan memiliki cerita uniknya sendiri, dan Kami berkomitmen untuk menggambarkan cerita itu melalui gambar-gambar yang indah. Percayakan pada Kami untuk menciptakan kenangan yang abadi dari pernikahan Anda.",
+    "photo": [
+      "https://plus.unsplash.com/premium_photo-1678286770016-6306ad61df9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+      "https://plus.unsplash.com/premium_photo-1678286771082-4de8d1e4b649?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+    ]
+  },
+  {
+    "name": "Your Mate Picture",
+    "price": 4500000,
+    "description": "Kami adalah seorang fotografer pernikahan yang berdedikasi untuk menciptakan kenangan indah dari momen-momen berharga dalam pernikahan Anda. Dengan perhatian terhadap detail dan kepekaan terhadap emosi, Kami akan mengabadikan setiap momen dengan kecermatan dan ketelitian. Dalam setiap foto, Kami mencoba menangkap esensi cinta dan kebahagiaan yang hadir dalam perayaan pernikahan. Percayakan pernikahan Anda pada Kami dan bersama-sama kita akan menciptakan kenangan yang tak terlupakan.",
+    "photo": [
+      "https://images.unsplash.com/photo-1561501878-aabd62634533?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1540541338287-41700207dee6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1580041065738-e72023775cdc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    ]
+  },
+  {
+    "name": "The Moment",
+    "price": 9000000,
+    "description": "Kami adalah fotografer pernikahan dengan dedikasi untuk mengabadikan momen-momen berharga dalam pernikahan Anda. Dengan gaya foto yang kreatif dan pengalaman dalam mengatur pencahayaan, Kami akan menciptakan karya yang memukau dan bermakna. Setiap foto yang Kami ambil memiliki cerita sendiri yang mewakili keindahan dan kebahagiaan pernikahan Anda. Percayakan pada Kami untuk menciptakan kenangan yang abadi dari hari pernikahan Anda.",
+    "photo": [
+      "https://images.unsplash.com/photo-1549895058-36748fa6c6a7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "https://images.unsplash.com/photo-1584336991738-c4fca2b411ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+      "https://images.unsplash.com/photo-1565902628322-ef64d5cda571?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=409&q=80"
+    ]
+  },
+  {
+    "name": "Sourire",
+    "price": 9500000,
+    "description": "Kami adalah fotografer pernikahan yang berdedikasi untuk menciptakan kisah visual yang menakjubkan dari momen-momen berharga dalam pernikahan Anda. Dengan kepekaan artistik dan kemampuan teknis yang solid, Kami akan mengabadikan setiap detail, kebahagiaan, dan cinta yang terpancar dalam perayaan Anda. Dari detik-detik emosional hingga momen-momen puncak, Kami akan menggambarkan cerita Anda dengan indah dan autentik. Percayakan kepada Kami untuk menciptakan kenangan yang abadi dari hari pernikahan Anda.",
+    "photo": [
+      "https://images.unsplash.com/photo-1586199574776-41143d41c70f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "https://images.unsplash.com/photo-1633528760485-a4fa9ecd037b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=873&q=80",
+      "https://images.unsplash.com/photo-1579254216547-a90bea451479?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    ]
+  }
+]
